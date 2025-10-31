@@ -1,0 +1,7 @@
+************* Module cleaned_inventory_system
+cleaned_inventory_system.py:82:0: C0305: Trailing newlines (trailing-newlines)
+cleaned_inventory_system.py:40:4: W0603: Using the global statement (global-statement)
+
+-----------------------------------
+Your code has been rated at 9.58/10
+
